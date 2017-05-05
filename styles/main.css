@@ -1,0 +1,15 @@
+//18px our base font...just this bigger or smaller the ems will scale down accordingly
+body {
+	//color: red;
+	background-color: blue;
+	//font-size: 36px;
+}
+
+h1 {
+	font-size: 2em;
+	background-color: yellow;
+}
+
+h2 {
+	font-size: 1.6em;
+}
